@@ -61,8 +61,8 @@ local function run(msg, matches)
 💭#sh git pull : add new commands
 
 ➖🔸➖🔹➖🔸➖🔹➖
-Version :- 1.0 Telegram Bot Tfb
-Developer :- " @Shahabambesik "
+Version :- 1.0 Telegram Bot pirvate
+Developer :- " @RyanGmorr"
 ]]
     return text
   end
@@ -84,7 +84,7 @@ Developer :- " @Shahabambesik "
 💭#kickme
 💭#mute :- for one member by <id|reply|username>
 💭#unmute :- cancel silent for member by <id|reply|username> 
-💭#del : delete msg by reply
+💭#rem : delete msg by reply
 
 ➕
 ✅Group control 
@@ -128,8 +128,8 @@ Developer :- " @Shahabambesik "
 💭#sh git pull : add new commands
 
 ➖🔸➖🔹➖🔸➖🔹➖
-Version :- 1.0 Telegram Bot Tfb 
-Developer :- " @Shahabambesik "
+Version :- 1.0 Telegram Bot pirvate 
+Developer :- " @RyanGmorr"
 ]]
     return text
   else
